@@ -1,5 +1,5 @@
 ## About The Project
-<p>The purpose of this application is to create a robust backend that can handle users registration and authentication using JWT. The events are for a typically calendar app where you can do CRUD operations but always keeping security of users. The app was developed using NodeJS, Express and MongoDB</p>
+<p>The purpose of this application is to create a backend that can handle users registration and authentication using JWT. The events are for a typically calendar app where you can do CRUD operations but always keeping security of users. The app was developed using NodeJS, Express and MongoDB</p>
 
 ## Installation
 First, you need to download the project and install or simply clone it.
